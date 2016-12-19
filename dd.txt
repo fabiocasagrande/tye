@@ -1,1 +1,55 @@
 http://www.mindrot.org/projects/jBCrypt/#download
+
+
+final:
+
+30 questions
+- servlets what are the steps that the servelts does. server side? client side?
+how to extends servlets. how to start the servlets.
+servlets methdos: init destroy 
+
+- Threads methods.lifecycle thread.
+-ch5 thread functions try code TimeSlicer.java
+
+-Network calculation mask.range
+
+
+code from :sourceJavaNetwork.zip    and from example2  
+ch 19 mailclient
+
+arguments to check mail, how to start a session
+MessagingException
+what are the package needed. 
+
+-rmi
+code 
+comparison view bt rmi and corba..similarity meccanism of rmi. how do you make service. rmi stop and skeleton.
+register the services
+
+jsp support
+what is a servlet.
+http get post
+
+cookies
+
+servlet container
+
+ssl
+
+logging : level of logging.java 
+
+tcp-ip protocol how compare one 7 one 4 
+
+recognize serverbase app and standalone app
+
+udp tcp
+
+matching
+connection server basic command to find ip: ipconfig
+
+dhcp server
+
+dns functionality
+
+
+stream-bits low level---> communication top bottom top 
